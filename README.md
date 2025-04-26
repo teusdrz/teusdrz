@@ -1,8 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Matheus
 ===============================================================================================================================
 
-💻 Estou mergulhado no mundo da programação há cerca de 2 anos, com foco em desenvolvimento front-end. Nos últimos meses, tenho expandido meus conhecimentos rumo ao full stack, estudando na One Bit Code, onde estou me aprofundando em tecnologias modernas como JavaScript, TypeScript, Node.js e mais. Também sou estudante de Análise e Desenvolvimento de Sistemas pela faculdade Anhanguera, o que tem me ajudado a consolidar a base teórica e prática na área de tecnologia. Meu objetivo é me tornar um desenvolvedor completo, capaz de construir soluções eficientes e bem projetadas tanto no front quanto no back-end.
-
+💻 I have been immersed in the world of programming for about 2 years, focusing on front-end development. In recent months, I have been expanding my knowledge toward full stack development, studying at One Bit Code, where I am deepening my skills in modern technologies such as JavaScript, TypeScript, Node.js, and more. I am also a student of Systems Analysis and Development at Anhanguera College, which has been helping me solidify both the theoretical and practical foundations in the technology field. My goal is to become a well-rounded developer, capable of building efficient and well-designed solutions for both front-end and back-end.
 * 🖥️  See my portfolio at [Portifólio](http://teusdrz.github.io/Portif-lio/)
 * ✉️  You can contact me at [matheusviniciusdrs5555@gmail.com](mailto:matheusviniciusdrs5555@gmail.com)
 
