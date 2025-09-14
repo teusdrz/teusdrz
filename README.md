@@ -10,12 +10,7 @@ I'm a passionate **Full Stack Developer** with 2+ years of experience creating i
 
 My expertise spans from **front-end aesthetics** to **complex back-end architectures**, with a special focus on **AI-powered applications** and **healthcare technology**. I believe in building solutions that not only solve problems but create meaningful impact.
 
-### 🎯 Current Focus
-- 🔭 Building **FLOVE** - AI-powered hormonal health monitoring system (95%+ prediction accuracy)
-- � Developing **System-Clients** - Samsung service optimization platform (80%+ efficiency improvement)
-- 🌱 Mastering **Computer Vision**, **NLP**, and **Machine Learning** algorithms
-- 💡 Exploring **React Native**, **FastAPI**, and **TensorFlow** ecosystems
-- 👯 Open to collaborate on **healthcare tech** and **AI-driven solutions**
+
 
 ### 📍 Location
 São Paulo, Brazil 🇧🇷
