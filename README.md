@@ -65,71 +65,7 @@ São Paulo, Brazil 🇧🇷
 
 ---
 
-## 🏆 Featured Projects
 
-### 🌸 FLOVE - AI-Powered Health Monitoring System
-*Revolutionary hormonal cycle monitoring with 95%+ prediction accuracy*
-
-**🔧 Tech Stack:**
-- **Backend:** Python, FastAPI, PostgreSQL, Redis, TensorFlow
-- **Frontend:** React Native, TypeScript, Expo
-- **AI/ML:** LSTM Neural Networks, Computer Vision, NLP
-- **Security:** AES-256 encryption, biometric authentication
-- **Infrastructure:** Docker, Kubernetes, Azure
-
-**✨ Key Features:**
-- 🧠 **95%+ accurate** cycle prediction using ensemble LSTM models
-- 📸 **Computer vision** for safe image analysis with OpenCV
-- 🎵 **Therapeutic music player** with binaural beats integration
-- 🔒 **End-to-end encryption** with LGPD/GDPR compliance
-- 📱 **Cross-platform mobile app** with intuitive UX/UI
-
-**📊 Impact:**
-- Comprehensive healthcare solution for personalized monitoring
-- Real-time data processing with advanced caching strategies
-- Microservices architecture with 99.9% uptime
-- 50+ documented API endpoints with automated testing
-
----
-
-### 🏢 System-Clients - Samsung Service Platform
-*Enterprise solution optimizing client management for Samsung technical support*
-
-**🔧 Tech Stack:**
-- **Frontend:** HTML5, CSS3, JavaScript ES6+, Bootstrap 5
-- **Backend:** Node.js, Express.js, NeDB
-- **Features:** SweetAlert2, Chart.js, Responsive Design
-- **Tools:** Real-time validation, Data visualization
-
-**✨ Key Achievements:**
-- ⚡ **80% efficiency improvement** in client registration process
-- 📊 **Interactive dashboards** with real-time data visualization
-- 🎨 **Premium UI/UX** with custom animations and Samsung branding
-- 📱 **Fully responsive** design for all device types
-- 🔍 **Advanced search** and filtering capabilities
-
-**📈 Business Impact:**
-- Eliminated duplicate client entries through smart validation
-- Reduced data correction workload across departments
-- Enhanced user experience with professional interface design
-
----
-
-### 🎨 Personal Portfolio - React + TypeScript
-*Modern, animated portfolio showcasing development expertise*
-
-**🔧 Tech Stack:**
-- **Frontend:** React, TypeScript, Vite
-- **Styling:** CSS Modules, CSS Animations
-- **Architecture:** Atomic Design Pattern
-- **Features:** EmailJS integration, Responsive design
-
-**✨ Highlights:**
-- 🏗️ **Atomic Design** architecture for scalable component structure
-- ⚡ **Performance optimized** with Vite build system
-- 📧 **Contact form** with EmailJS integration
-- 🎭 **Advanced animations** and interactive elements
-- 📱 **Mobile-first** responsive design approach
 
 ---
 
@@ -146,67 +82,11 @@ São Paulo, Brazil 🇧🇷
 
 ---
 
-## 🎓 Education & Certifications
 
-- 🎓 **Systems Analysis and Development** - Anhanguera College *(In Progress)*
-- 💻 **Full Stack Development** - One Bit Code *(Specialization)*
-- 🧠 **Machine Learning Specialization** - Self-directed learning
-- 🌐 **Modern Web Development** - Continuous learning
 
 ---
 
-## 💼 Professional Experience & Achievements
 
-### Full Stack Developer | Freelance & Personal Projects
-*2022 - Present*
-
-**🏥 Healthcare Technology Innovation**
-- Built **FLOVE**, an AI-powered health monitoring system with **95%+ prediction accuracy**
-- Implemented **computer vision** algorithms for medical image analysis
-- Developed **real-time data processing** pipelines with **Redis** and **PostgreSQL**
-
-**🏢 Enterprise Solutions**
-- Created **System-Clients** for Samsung, achieving **80% efficiency improvement**
-- Designed **interactive dashboards** with real-time data visualization
-- Implemented **advanced validation systems** eliminating duplicate entries
-
-**🎨 Frontend Excellence**
-- Developed **responsive web applications** with modern React ecosystem
-- Built **cross-platform mobile apps** using React Native and Expo
-- Applied **Atomic Design patterns** for scalable component architecture
-
-**🔧 Backend & Infrastructure**
-- Architected **microservices** with FastAPI and Docker containerization
-- Implemented **REST APIs** with comprehensive documentation and testing
-- Managed **cloud deployments** on Azure with CI/CD pipelines
-
-### Key Metrics & Impact
-- 📈 **15+ completed projects** with 100% client satisfaction
-- 🚀 **40% average performance improvement** across applications
-- 🔧 **Zero-downtime deployments** using modern DevOps practices
-- 🎯 **100% project delivery** within specified timelines
-- 📊 **95%+ test coverage** maintained across all codebases
-
----
-
-## 🎓 Education & Continuous Learning
-
-### 🏫 Formal Education
-- **Systems Analysis and Development** - Anhanguera College *(In Progress)*
-- **Full Stack Development Specialization** - One Bit Code *(Advanced Level)*
-
-### 🏆 Certifications & Skills Development
-- **JavaScript Advanced (ES6+)** - OneBitCode *(2025)*
-- **Database Modeling & Design** - Fundação Bradesco *(2025)*
-- **HTML5 & Semantic Web** - OneBitCode *(2025)*
-- **Machine Learning Fundamentals** - Self-directed learning
-- **Cloud Architecture Patterns** - Azure & AWS platforms
-
-### 📚 Continuous Learning Focus
-- Advanced React patterns and performance optimization
-- Machine Learning algorithms and deep learning frameworks
-- Cloud-native architectures and serverless computing
-- Healthcare technology standards and compliance (LGPD/GDPR)
 
 ---
 
