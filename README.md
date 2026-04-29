@@ -26,44 +26,8 @@ São Paulo, Brazil 🇧🇷
   <img src="https://skillicons.dev/icons?i=nodejs,python,java,fastapi,express,spring" />
 </p>
 
-### Mobile Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,expo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="48" height="48" alt="Android Studio" />
-</p>
-
-### Databases & Storage
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,sqlite" />
-</p>
-
-### AI/ML & Data Science
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
-</p>
 
 
 
-## 📫 Let's Connect!
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=google-chrome&logoColor=white)](http://teusdrz.github.io/Portif-lio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-vinicius-82b50a26b/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusviniciusdrs5555@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/teusdrz)
-
-</div>
 
 ---
-
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=teusdrz&color=0891b2&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  
-  ### ⭐ "The best way to predict the future is to create it." - Peter Drucker
-  
-  **Ready to build something amazing together? Let's connect and create the future! �**
-</div>
