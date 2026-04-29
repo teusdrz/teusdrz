@@ -1,8 +1,5 @@
 # Hi there! 👋 I'm Matheus Vinícius
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Systems+Analysis+Student;Healthcare+Technology+Innovator" alt="Typing SVG" />
-</div>
 
 ## 🚀 About Me
 
@@ -46,39 +43,6 @@ São Paulo, Brazil 🇧🇷
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
 </p>
-
-### DevOps & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,vscode,linux,azure,aws" />
-</p>
-
-### Testing & Quality
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=jest,pytest" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="48" height="48" alt="ESLint" />
-</p>
-
----
-
-
-
----
-
-## 📈 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=teusdrz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=teusdrz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teusdrz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
-
----
-
-
-
 
 
 
