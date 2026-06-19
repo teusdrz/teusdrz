@@ -1,33 +1,23 @@
-# Hi there! 👋 I'm Matheus Vinícius
+# Hi there! I'm Matheus Vinícius
 
+## About Me
 
-## 🚀 About Me
+Software Engineer who enjoys bridging backend microservices and high-traffic frontend interfaces. I build with scalable architecture, clean code principles, and a constant curiosity for AI-powered tools (local LLMs, RAG).
 
-I'm a passionate **Full Stack Developer** with 2+ years of experience creating innovative software solutions. Currently pursuing **Systems Analysis and Development** at Anhanguera College while specializing in cutting-edge technologies at **One Bit Code**.
-
-My expertise spans from **front-end aesthetics** to **complex back-end architectures**, with a special focus on **AI-powered applications** and **healthcare technology**. I believe in building solutions that not only solve problems but create meaningful impact.
-
-
-
-### 📍 Location
-São Paulo, Brazil 🇧🇷
+São Paulo, Brazil
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### Frontend Development
+### Frontend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,bootstrap,sass" />
 </p>
 
-### Backend Development
+### Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,python,java,fastapi,express,spring" />
+  <img src="https://skillicons.dev/icons?i=nodejs,python,fastapi,express,docker,postgresql" />
 </p>
-
-
-
-
 
 ---
