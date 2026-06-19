@@ -4,7 +4,7 @@
 
 Software Engineer who enjoys bridging backend microservices and high-traffic frontend interfaces. I build with scalable architecture, clean code principles, and a constant curiosity for AI-powered tools (local LLMs, RAG).
 
-São Paulo, Brazil
+São Paulo
 
 ---
 
