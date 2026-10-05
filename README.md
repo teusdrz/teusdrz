@@ -12,20 +12,20 @@ São Paulo
 
 ### Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,bootstrap,sass,angular" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass,angular" />
 </p>
 
 ### Backend & Core
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,flask,nodejs,express,docker,postgresql,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,spring,py,fastapi,flask,nodejs,express,docker,postgres,mysql" />
 </p>
 
 ### Cloud, DevOps & Observability (AWS / Azure)
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,lambda,ec2,azure,docker,kubernetes,datadog,postman,git,github" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,postman,git,github" />
 </p>
 
 ### Data & Big Data
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,pandas,databricks" />
+  <img src="https://skillicons.dev/icons?i=py,databricks" />
 </p>
